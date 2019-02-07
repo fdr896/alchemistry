@@ -3,4 +3,4 @@ Write: "показать предметы" # you'll see all tools which you crea
 
 Write: "[toolName] [toolName]" # like this you can try to fold two tools
 
-after all commands you should tap 'Enter' to input command again
+After all commands you should tap 'Enter' to input command again
